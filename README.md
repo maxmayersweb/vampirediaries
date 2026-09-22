@@ -2,14 +2,14 @@
   <img src="logo.png" width="300" alt="Дневники вампира App logo">
 </p>
 
-<h1 align="center">Кинопаб</h1>
+<h1 align="center">Дневники вампира</h1>
 
 <p align="center">
   Удобное приложение для сайта по сериалу «Дневники вампира».
 </p>
 
 <p align="center">
-  <img src="preview.webp" alt="Дневники вампира» App preview">
+  <img src="screen.webp" alt="Дневники вампира» App preview">
 </p>
 
 ## Скачать
